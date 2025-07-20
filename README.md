@@ -7,6 +7,11 @@ Welcome to my data analytics portfolio! I'm a passionate analyst skilled in Pyth
    - Identify and Handle Missing Values
    - Analyse Sales by Region
    - Create Pivot Tables to Summarise Sales Data
+2. **Retrieve and Analyze Customer and Order Data with SQLite**
+   - Retrieve Customer and Order Details
+   - Perform Joins to Combine Tables
+   - Use GROUP BY and HAVING to Find Top-Selling Products
+   - Implement Subqueries to Filter Data
 
 ## 🔍 Featured Projects
 ### Coming Soon
