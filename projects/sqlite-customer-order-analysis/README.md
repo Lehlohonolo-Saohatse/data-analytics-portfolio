@@ -57,10 +57,10 @@ This project showcases my ability to retrieve and analyze customer and order dat
 | `Orders.csv`          | Contains order data (OrderID, CustomerID, OrderDate, ShipperID) |
 | `OrderDetails.csv`    | Contains order details (OrderID, ProductID, Quantity) |
 | `Products.csv`        | Contains product data (ProductID and other details) |
-| `screenshot1.png`     | Image of the SQLite query results 1             |
-| `screenshot2.png`     | Image of the SQLite query results 2             |
-| `screenshot3.png`     | Image of the SQLite query results 3             |
-| `screenshot4.png`     | Image of the SQLite query results 4             |
+| `Screenshot1.png`     | Image of the SQLite query results 1             |
+| `Screenshot2.png`     | Image of the SQLite query results 2             |
+| `Screenshot3.png`     | Image of the SQLite query results 3             |
+| `Screenshot4.png`     | Image of the SQLite query results 4             |
 | `README.md`           | Project documentation and summary               |
 
 ---
