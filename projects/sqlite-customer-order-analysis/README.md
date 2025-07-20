@@ -42,10 +42,10 @@ This project showcases my ability to retrieve and analyze customer and order dat
 
 ## 📸 Project Screenshots
 
-![SQLite Analysis Overview 1](./screenshot1.png)  
-![SQLite Analysis Overview 2](./screenshot2.png)  
-![SQLite Analysis Overview 3](./screenshot3.png)  
-![SQLite Analysis Overview 4](./screenshot4.png)
+![SQLite Analysis Overview 1](./Screenshot1.png)  
+![SQLite Analysis Overview 2](./Screenshot2.png)  
+![SQLite Analysis Overview 3](./Screenshot3.png)  
+![SQLite Analysis Overview 4](./Screenshot4.png)
 
 ---
 
