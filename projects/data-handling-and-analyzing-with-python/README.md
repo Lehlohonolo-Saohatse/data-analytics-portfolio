@@ -78,7 +78,7 @@ This project demonstrates my ability to handle missing data and analyze a housin
 
 ## 🙋 About Me
 
-I'm **Your Name**, a dedicated data analyst with a passion for using Python and data science platforms like Kaggle to uncover actionable insights. This project reflects my proficiency in data cleaning and analysis.
+I'm **Lehlohonolo Saohatse**, a dedicated data analyst with a passion for using Python and data science platforms like Kaggle to uncover actionable insights. This project reflects my proficiency in data cleaning and analysis.
 
 ---
 
