@@ -120,31 +120,6 @@ To explore the projects locally:
    - Check the `images` directory for screenshots or visualizations.
    - Place `profile.jpeg` in the `images` directory if updating the profile image.
 
-## 🤝 Contributing
-I welcome contributions to enhance this portfolio! To contribute:
-1. Fork the repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your feature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/your-feature
-   ```
-5. Open a pull request with a clear description.
-
-**Guidelines**:
-- Maintain consistent code style (e.g., PEP 8 for Python).
-- Include documentation for new projects or scripts.
-- Test changes locally before submitting.
-- Suggest ideas or report issues via [GitHub Issues](https://github.com/Lehlohonolo-Saohatse/data-analytics-portfolio/issues).
-
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-Thanks for visiting my portfolio! 🙌
 
