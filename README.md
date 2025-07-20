@@ -1,6 +1,6 @@
-# 📊 Data Analytics Portfolio — Lehlohonolo Saohatse
+# 📊 Data Analytics Portfolio
 
-## Welcome to my **Data Analytics Portfolio!**  
+#### Welcome to my **Data Analytics Portfolio!**  
 I'm a passionate analyst skilled in **Python**, **SQL**, and **data visualization**, with a keen eye for turning raw data into actionable insights.
 
 ---
