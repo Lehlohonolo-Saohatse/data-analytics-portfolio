@@ -1,87 +1,76 @@
+# Retrieve and Analyze Customer and Order Data with SQLite 📊
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Status](https://img.shields.io/badge/status-completed-brightgreen.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
-# 📊 Retrieve and Analyze Customer and Order Data with SQLite
+Welcome to my **Retrieve and Analyze Customer and Order Data with SQLite** project! This repository showcases my ability to leverage **SQLite**, a lightweight relational database, to retrieve and analyze customer and order data. Using advanced SQL techniques like joins, grouping, and subqueries, this project delivers actionable insights from a sample dataset—perfect for mastering database analytics. 🚀
 
-## 📌 Overview
-This project showcases my ability to retrieve and analyze customer and order data using **SQLite**, a lightweight relational database management system. It highlights essential SQL skills such as data retrieval, table joins, grouping, and subqueries to derive meaningful insights from a sample dataset. This is a foundational yet practical example of database-based data analytics.
+## 📋 Table of Contents
+- [Overview](#overview)
+- [Tools](#tools)
+- [Objectives](#objectives)
+- [Results & Insights](#results--insights)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Screenshots](#screenshots)
+- [Files](#files)
+- [Project Details](#project-details)
+- [About Me](#about-me)
+- [Contact](#contact)
 
----
+## 🌟 Overview
+This project demonstrates a practical application of SQLite to analyze customer and order data, focusing on data retrieval, table joins, and advanced querying. By identifying top-selling products and recent customer activity, it provides a solid foundation for business intelligence and database-driven decision-making. 📈
 
-## 🛠 Tools Used
-- SQLite
-- SQL Queries (JOIN, GROUP BY, SUBQUERIES)
-- SQLite Online Editor
+## 🛠️ Tools
+- **Database**: SQLite
+- **Query Techniques**: JOIN, GROUP BY, SUBQUERIES
+- **Platform**: SQLite Online Editor
 
----
-
-## 🎯 Key Objectives
+## 🎯 Objectives
 - Retrieve detailed customer and order information
 - Perform joins to combine related tables
 - Identify top-selling products using GROUP BY and HAVING
 - Filter data with subqueries to find recent customer activity
 
----
-
-## 📈 Results & Insights
-
-- 🔍 **Data Retrieved**: Successfully fetched customer names, order IDs, and dates from joined Customers and Orders tables.
-- 🔁 **Top Products Identified**: Top 3 products by units sold (e.g., ProductID 55: 25 units) using GROUP BY and ORDER BY.
-- 📊 **Recent Activity**: Subquery identified customers with orders in the last 18 months from July 20, 2025.
-- 📌 **Business Impact**: This analysis demonstrates how SQLite can efficiently handle and analyze small to medium-sized datasets for business insights.
-
----
+## 📊 Results & Insights
+- 🔍 **Data Retrieved**: Successfully fetched customer names, order IDs, and dates from joined tables.
+- 📋 **Top Products**: Identified top-selling products using GROUP BY and ORDER BY (e.g., ProductID 55 with 25 units).
+- ⏳ **Recent Activity**: Subquery highlighted customers with orders in the last 18 months from July 20, 2025.
+- 💡 **Business Impact**: Demonstrates SQLite’s efficiency for analyzing small to medium-sized datasets, supporting business insights.
 
 ## 🧠 Skills Demonstrated
-- Data Retrieval & Querying
-- Table Joins (INNER JOIN)
-- Grouping and Aggregation
-- Subquery Implementation
-- Database Analysis & Interpretation
+- Data retrieval and querying
+- Table joins (INNER JOIN)
+- Grouping and aggregation
+- Subquery implementation
+- Database analysis and interpretation
 
----
+## 📸 Screenshots
+Explore the analysis process with these SQLite query result screenshots:
 
-## 📸 Project Screenshots
+- ![Analysis Step 1](./Screenshot1.png)
+- ![Analysis Step 2](./Screenshot2.png)
+- ![Analysis Step 3](./Screenshot3.png)
+- ![Analysis Step 4](./Screenshot4.png)
 
-![SQLite Analysis Overview 1](./Screenshot1.png)  
-![SQLite Analysis Overview 2](./Screenshot2.png)  
-![SQLite Analysis Overview 3](./Screenshot3.png)  
-![SQLite Analysis Overview 4](./Screenshot4.png)
-
----
-
-## 📂 Files Included
-
+## 📂 Files
 | File Name             | Description                                     |
-|----------------------|-------------------------------------------------|
-| `Customers.csv`       | Contains customer data (CustomerID, CustomerName, ContactName, Country) |
-| `Orders.csv`          | Contains order data (OrderID, CustomerID, OrderDate, ShipperID) |
-| `OrderDetails.csv`    | Contains order details (OrderID, ProductID, Quantity) |
-| `Products.csv`        | Contains product data (ProductID and other details) |
-| `Screenshot1.png`     | Image of the SQLite query results 1             |
-| `Screenshot2.png`     | Image of the SQLite query results 2             |
-| `Screenshot3.png`     | Image of the SQLite query results 3             |
-| `Screenshot4.png`     | Image of the SQLite query results 4             |
-| `README.md`           | Project documentation and summary               |
+|-----------------------|-------------------------------------------------|
+| `Customers.csv`       | Customer data (CustomerID, CustomerName, ContactName, Country) |
+| `Orders.csv`          | Order data (OrderID, CustomerID, OrderDate, ShipperID) |
+| `OrderDetails.csv`    | Order details (OrderID, ProductID, Quantity)    |
+| `Products.csv`        | Product data (ProductID and related details)    |
+| `Screenshot1.png`     | Screenshot of query results 1                   |
+| `Screenshot2.png`     | Screenshot of query results 2                   |
+| `Screenshot3.png`     | Screenshot of query results 3                   |
+| `Screenshot4.png`     | Screenshot of query results 4                   |
+| `README.md`           | Project documentation                           |
 
----
-
-## 🗂 Project Details
-
-- **Project Type**: Individual Exercise
+## 📋 Project Details
+- **Type**: Individual Exercise
 - **Dataset**: Provided CSV files (Customers.csv, Orders.csv, OrderDetails.csv, Products.csv)
 - **Tech Stack**: SQLite
 - **Topic**: Customer & Order Analytics
-- **Duration**: ~ 20 min
-
----
-
-## 🙋 About Me
-
-I'm **Lehlohonolo Saohatse**, a dedicated data analyst with a passion for leveraging database technologies and SQL to uncover actionable insights. This project reflects my proficiency with SQLite as a tool for effective data analysis.
-
----
-
-📫 **Connect With Me**:  
-[LinkedIn](inkedin.com/in/lehlohonolo-saohatse-ab6ab624b/) • [GitHub](https://github.com/Lehlohonolo-Saohatse) • [Email](https://message-ls.streamlit.app/)
+- **Duration**: ~20 minutes
 
 > 💡 Explore more projects in my [main portfolio](https://github.com/Lehlohonolo-Saohatse/data-analytics-portfolio)
