@@ -1,88 +1,80 @@
+# Handling Missing Data and Analyzing Data with Python 📊
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Status](https://img.shields.io/badge/status-completed-brightgreen.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
-# 📊 Handling Missing Data and Analyzing Data with Python
+Welcome to my project on **Handling Missing Data and Analyzing Data with Python**! This repository showcases my ability to clean and analyze a housing dataset using **Python** and **Pandas** on Kaggle. It highlights key data preprocessing techniques and statistical analysis, turning raw data into actionable insights for real estate applications. 🚀
 
-## 📌 Overview
-This project demonstrates my ability to handle missing data and analyze a housing dataset using **Python** and **Pandas** on Kaggle. It showcases key data cleaning and analysis techniques, including loading data, managing missing values, and deriving insights such as average prices and filtered house details. This is a practical example of data preprocessing and analysis in a web-based data science environment.
+## 📋 Table of Contents
+- [Overview](#overview)
+- [Tools](#tools)
+- [Objectives](#objectives)
+- [Results & Insights](#results--insights)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Screenshots](#screenshots)
+- [Files](#files)
+- [Project Details](#project-details)
+- [About Me](#about-me)
+- [Contact](#contact)
 
----
+## 🌟 Overview
+This project demonstrates a practical approach to handling missing data and performing analysis on a housing dataset using Kaggle’s web-based notebook environment. By loading the dataset, managing missing values, and extracting insights like average prices and price extremes, it serves as a foundation for real estate market analysis and decision-making. 🌍
 
-## 🛠 Tools Used
-- Python
-- Pandas
-- Kaggle (Web-based Notebook Environment)
+## 🛠️ Tools
+- **Programming**: Python
+- **Libraries**: Pandas
+- **Platform**: Kaggle (Web-based Notebook Environment)
 
----
-
-## 🎯 Key Objectives
+## 🎯 Objectives
 - Load and inspect a housing dataset
 - Identify and handle missing values
 - Verify the effectiveness of missing data handling
-- Analyze data to extract specific insights (e.g., average price, price extremes, filtered houses)
+- Analyze data to extract insights (e.g., average price, price extremes, filtered houses)
 
----
-
-## 📈 Results & Insights
-
-- 🔍 **Missing Values Handled**: Missing values in 'Price' and 'Bedrooms' were filled with column means.
-- 🔁 **Data Verification**: Post-processing checks confirmed no remaining missing values.
-- 📊 **Analysis Insights**:
-  - **Average Price**: Calculated as the mean of all house prices.
-  - **Price Extremes**: Identified the house with the highest and lowest prices.
-  - **Filtered Data**: Displayed houses with prices exceeding $600,000.
-- 📌 **Business Impact**: This analysis provides a foundation for real estate market insights, aiding in pricing strategies and property evaluations.
-
----
+## 📊 Results & Insights
+- 🔍 **Missing Values**: Filled missing 'Price' and 'Bedrooms' values with column means.
+- ✅ **Verification**: Confirmed no remaining missing values post-processing.
+- 📈 **Analysis**:
+  - Calculated the average house price.
+  - Identified the highest and lowest priced houses.
+  - Filtered houses exceeding $600,000.
+- 💡 **Business Impact**: Provides a basis for pricing strategies and property evaluations in the real estate market.
 
 ## 🧠 Skills Demonstrated
-- Data Loading & Inspection
-- Missing Value Handling
-- Data Verification
-- Statistical Analysis (Mean, Min, Max)
-- Data Filtering & Interpretation
+- Data loading and inspection
+- Missing value handling
+- Data verification
+- Statistical analysis (mean, min, max)
+- Data filtering and interpretation
 
----
+## 📸 Screenshots
+Visualize the analysis process with these Kaggle notebook screenshots:
 
-## 📸 Project Screenshots
+- ![Analysis Step 1](./Screenshot1.png)
+- ![Analysis Step 2](./Screenshot2.png)
+- ![Analysis Step 3](./Screenshot3.png)
+- ![Analysis Step 4](./Screenshot4.png)
 
-![Python Analysis Overview 1](./Screenshot1.png)  
-![Python Analysis Overview 2](./Screenshot2.png)  
-![Python Analysis Overview 3](./Screenshot3.png)  
-![Python Analysis Overview 4](./Screenshot4.png)
-
----
-
-## 📂 Files Included
-
+## 📂 Files
 | File Name             | Description                                     |
-|----------------------|-------------------------------------------------|
-| `housing_data.csv`    | Dataset containing housing data (Price, Bedrooms, etc.) |
-| `kaggle_notebook.ipynb` | Kaggle notebook with Python code and analysis results |
-| `Screenshot1.png`     | Image of the Kaggle notebook analysis 1         |
-| `Screenshot2.png`     | Image of the Kaggle notebook analysis 2         |
-| `Screenshot3.png`     | Image of the Kaggle notebook analysis 3         |
-| `Screenshot4.png`     | Image of the Kaggle notebook analysis 4         |
-| `README.md`           | Project documentation and summary               |
+|-----------------------|-------------------------------------------------|
+| `housing_data.csv`    | Housing dataset with Price, Bedrooms, etc.      |
+| `kaggle_notebook.ipynb` | Kaggle notebook with Python code and results    |
+| `Screenshot1.png`     | Screenshot of analysis step 1                   |
+| `Screenshot2.png`     | Screenshot of analysis step 2                   |
+| `Screenshot3.png`     | Screenshot of analysis step 3                   |
+| `Screenshot4.png`     | Screenshot of analysis step 4                   |
+| `README.md`           | Project documentation                           |
 
----
-
-## 🗂 Project Details
-
-- **Project Type**: Individual Exercise
-- **Dataset**: Provided CSV file (housing_data.csv)
+## 📋 Project Details
+- **Type**: Individual Exercise
+- **Dataset**: `housing_data.csv`
 - **Tech Stack**: Python, Pandas, Kaggle
 - **Topic**: Housing Data Analysis
-- **Duration**: ~ 20 min
+- **Duration**: ~20 minutes
 
----
-
-## 🙋 About Me
-
-I'm **Lehlohonolo Saohatse**, a dedicated data analyst with a passion for using Python and data science platforms like Kaggle to uncover actionable insights. This project reflects my proficiency in data cleaning and analysis.
-
----
-
-📫 **Connect With Me**:  
-[LinkedIn](inkedin.com/in/lehlohonolo-saohatse-ab6ab624b/) • [GitHub](https://github.com/Lehlohonolo-Saohatse) • [Email](https://message-ls.streamlit.app/)
+## 👤 About Me
+I’m **Lehlohonolo Saohatse**, a dedicated data analyst passionate about using Python and platforms like Kaggle to derive actionable insights. This project reflects my expertise in data cleaning and analysis, contributing to my broader data analytics journey.
 
 > 💡 Explore more projects in my [main portfolio](https://github.com/Lehlohonolo-Saohatse/data-analytics-portfolio)
