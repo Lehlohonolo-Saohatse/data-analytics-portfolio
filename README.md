@@ -12,7 +12,6 @@ Welcome to my **Data Analytics Portfolio**! I'm a passionate data analyst skille
 - [Featured Projects](#featured-projects)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
