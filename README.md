@@ -13,7 +13,6 @@ Welcome to my **Data Analytics Portfolio**! I'm a passionate data analyst skille
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [License](#license)
-- [Contact](#contact)
 
 ## 👤 About Me
 I'm a data enthusiast with a knack for uncovering insights from complex datasets. My focus is on leveraging tools like Python, SQL, and Excel to solve real-world problems, from sales analysis to customer behavior studies. This portfolio highlights my journey in data analytics, showcasing projects that reflect my technical skills and analytical mindset. 🌟
