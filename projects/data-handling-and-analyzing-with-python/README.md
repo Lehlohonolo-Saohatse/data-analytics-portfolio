@@ -15,7 +15,6 @@ Welcome to my project on **Handling Missing Data and Analyzing Data with Python*
 - [Screenshots](#screenshots)
 - [Files](#files)
 - [Project Details](#project-details)
-- [About Me](#about-me)
 - [Contact](#contact)
 
 ## 🌟 Overview
@@ -74,7 +73,6 @@ Visualize the analysis process with these Kaggle notebook screenshots:
 - **Topic**: Housing Data Analysis
 - **Duration**: ~20 minutes
 
-## 👤 About Me
-I’m **Lehlohonolo Saohatse**, a dedicated data analyst passionate about using Python and platforms like Kaggle to derive actionable insights. This project reflects my expertise in data cleaning and analysis, contributing to my broader data analytics journey.
+This project reflects my expertise in data cleaning and analysis, contributing to my broader data analytics journey.
 
 > 💡 Explore more projects in my [main portfolio](https://github.com/Lehlohonolo-Saohatse/data-analytics-portfolio)
