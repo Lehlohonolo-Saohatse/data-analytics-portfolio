@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
-Welcome to my **Data Analytics Portfolio**! I'm a passionate data analyst skilled in **Python**, **SQL**, and **data visualization**, dedicated to transforming raw data into actionable insights. This portfolio showcases my expertise through hands-on projects that demonstrate data cleaning, analysis, and visualization techniques. 🚀
+Welcome to my **Data Analytics Portfolio**! I'm a passionate data analyst skilled in **Python**, **SQL**, and **data visualization** skills, dedicated to transforming raw data into actionable insights. This portfolio showcases my expertise through hands-on projects that demonstrate data cleaning, analysis, and visualization techniques. 🚀
 
 ## 📋 Table of Contents
 - [About Me](#about-me)
